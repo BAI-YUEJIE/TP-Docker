@@ -31,3 +31,11 @@ Détails : `TP/exercice3-manipulation-base/commandes.md`
 Déploiement d'un serveur web Nginx avec mapping de ports (8080:80).
 
 Détails : `TP/exercice4-nginx/commandes.md`
+
+---
+
+## Exercice 5 : Application Flask
+
+Création et déploiement d'une application Flask dans un conteneur Docker.
+
+Détails : `TP/exercice5-flask/README.md`
