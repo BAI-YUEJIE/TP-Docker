@@ -22,4 +22,12 @@ TP-Docker/
 
 Commandes Docker de base : gestion des images et conteneurs (pull, run, ps, rm, rmi).
 
-📁 Détails : `TP/exercice3-manipulation-base/commandes.md`
+Détails : `TP/exercice3-manipulation-base/commandes.md`
+
+---
+
+## Exercice 4 : Serveur web Nginx
+
+Déploiement d'un serveur web Nginx avec mapping de ports (8080:80).
+
+Détails : `TP/exercice4-nginx/commandes.md`
