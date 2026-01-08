@@ -68,7 +68,8 @@ cd82f4309222   nginx     "/docker-entrypoint.…"   About a minute ago   Up Abou
 
 **URL :** http://localhost:8080
 
-**Résultat :** ![alt text](image.png)
+**Résultat :** 
+![Page d'accueil Nginx](nginx-welcome.png)
 
 **Explication :** Le serveur web Nginx est accessible via le navigateur sur le port 8080.
 
