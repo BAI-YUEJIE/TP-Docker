@@ -38,4 +38,12 @@ Détails : `TP/exercice4-nginx/commandes.md`
 
 Création et déploiement d'une application Flask dans un conteneur Docker.
 
-Détails : `TP/exercice5-flask/README.md`
+Détails : `TP/exercice5-flask/readme.md`
+
+---
+
+## Exercice 6 : Docker Compose
+
+Application Flask connectée à MongoDB, orchestrée avec Docker Compose.
+
+Détails : `TP/exercice6-docker-compose/readme.md`
